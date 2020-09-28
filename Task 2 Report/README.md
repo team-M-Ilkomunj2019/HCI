@@ -75,7 +75,8 @@ Jawab : Menurut Abimanyu,UX lebih fokus ke experiencenya. Jadi tidak hanya tampi
 Abimanyu memberikan design itemnya kepada kami yang berjudul it's bath time, yang merupakan tampillan depan dari sebuah game yang bertujuan untuk memberikan edukasi tentang mandi kepada anak-anak.
 
 *before*
-![Design-Item-it's-bath-time!](Design-Item-it's-bath-time!.jpg)
+![Design-Item-it's-bath-time!](Design-Item-it's-bath-time!.jpeg)
+
 
 
 lalu kami membuat improvisasi dari design item tersebut menjadi sebagai berikut :
