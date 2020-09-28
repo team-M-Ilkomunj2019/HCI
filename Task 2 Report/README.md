@@ -67,3 +67,28 @@ Jawab : Menurut Abimanyu,UX lebih fokus ke experiencenya. Jadi tidak hanya tampi
 
 # Link Wawancara Abimanyu Darmawan (Apps Developer)
  https://youtu.be/8sxIWuGcw0w
+
+
+
+ # IMPROVEMENT
+
+Abimanyu memberikan design itemnya kepada kami yang berjudul it's bath time, yang merupakan tampillan depan dari sebuah game yang bertujuan untuk memberikan edukasi tentang mandi kepada anak-anak.
+
+*before*
+![Design-Item-it's-bath-time!](Design-Item-it's-bath-time!.jpg)
+
+
+lalu kami membuat improvisasi dari design item tersebut menjadi sebagai berikut :
+
+
+*after*
+
+![Design-Improve-of-Design-Item'-UX-Designer](Design-Improve-of-Design-Item'-UX-Designer.png)
+
+## Analisis Improvisasi dari Design Item milik Abimanyu Darmawan
+
+
+Kelompok kami mengimprove design item milik Abimanyu berupa menambahkan roda gerigi kecil sebagai simbol untuk menu setting yang didalamnya pengguna dapat mengatur on dan off musik pada game tersebut, maka dari itu kami menghilangkan menu on dan off musik, sehingga tampilan aplikasi menjadi lebih efisien. Roda gigi sudah menjadi metafora untuk simbol pengaturan atau untuk mewakili pekerjaan atau kemajuan.
+
+
+Lalu kami juga menambahkan gambar bathub, alasannya agar pengguna aplikasi dapat memiliki pengalaman yang menyenangkan dan pengguna lebih mudah mengidentifikasi bahwa game tersebut adalah game yang berhubungan dengan kegiatan mandi. Kemudian kami juga mengubah sebagian warna keramik pada dinding kamar mandi tersebut untuk memberikan kesan estetik dan tidak monoton. Apalagi aplikasi tersebut merupakan game yang tujuannya dibuat untuk anak-anak. Kami berharap anak-anak dapat enjoy pada saat menggunakan aplikasi tersebut.
