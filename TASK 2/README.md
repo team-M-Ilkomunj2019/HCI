@@ -64,3 +64,6 @@ Jawab : Adobe illustrator mudah digunakan, dan ada juga beberapa misalnya figma 
 
 Jawab : Menurut Abimanyu,UX lebih fokus ke experiencenya. Jadi tidak hanya tampilan saja, user bisa mendapatkan kemudahan dari penggunaan aplikasinya. Lalu ada tambahan prinsip untuk design, yaitu konsistensi, kalau berada di scene pertama atau homepage warnanya misal merah dan biru, maka scene selanjutnya juga ada warna merah dan biru agar lebih konsisten dan tidak berubah-ubah. Membuat pengguna lebih nyaman dan tidak pusing, apalagi penggunanya banyak orang tua yang mungkin satu sampai dua menit mereka sudah keluar dari aplikasi.
 
+
+# Link Wawancara Abimanyu Darmawan (Apps Developer)
+ https://youtu.be/8sxIWuGcw0w
