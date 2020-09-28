@@ -1,6 +1,6 @@
 # Keluarga British Tenggelam di Kolam Renang Hotel di Costa Del Sol
 
-![Kolam Renang Hotel Club La Costa World](Kolam Renang Hotel Club La Costa World.jpg)
+![Kolam-Renang-Hotel-Club-La-Costa-World](Kolam-Renang-Hotel-Club-La-Costa-World.jpg)
 
 
 Tiga orang anggota keluarga British tenggelam di kolam renang hotel Club La Costa World pada hari Selasa di bulan Desember tahun 2019. Tiga orang dari anggota keluarga itu adalah seorang ayah yang bernama Christian Preacher, dan dua anaknya, yaitu Comfort dan Praise Emanuel. Kejadian ini bermula ketika sang ibu, Olubunmi Diya melihat putrinya tertarik ke tengah kolam dan kemudian putranya dan juga suaminya dengan cepat menolong putrinya tersebut, tetapi sayangnya mereka bertiga ikut tertarik ke tengah kolam tersebut, kemudian tenggelam dan tidak selamat. Ibunya mengklaim ada yang salah dengan desain kolam renang tersebut.
