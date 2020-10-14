@@ -12,7 +12,7 @@
 
 
 ## Task 1 Report
-https://github.com/team-M-Ilkomunj2019/HCI/tree/master/Task%201%20Report
+https://github.com/team-M-Ilkomunj2019/HCI/tree/hw2/Task%201%20Report
 
 
 ## Task 2 Report
