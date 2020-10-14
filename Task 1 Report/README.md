@@ -1,10 +1,13 @@
-## Evaluation Of Kuis Kesehatan App
+# Evaluation Of Kuis Kesehatan App
+### Tampilan Utama
 <img src="Tampilan_Utama.jpeg">
 <p>In the main view of the app, the start button is not that prominent, even though as the main button that connects to the main part of the app, the start button should be made in such a way as to attract the user's attention the first time user open this app. besides that in the top view, there are many buttons, they should only be placed in one place, namely "settings", so that visually, is more satisfying, and users are more comfortable using this app.</p>
 
+### Tampilan Kategori
 <img src="kategori.jpeg">
 <p>in this category section, the button "search questions" has the same design as the button from the category of quiz questions, this will make the user think that the button "search questions" is part of the category.</p>
 
+### Tampilan Cabang Turunan
 <img src="sub_cabang.jpeg">
 <p>in this quiz app there are lots of categories of questions about health. but some of these categories, in which there are more categories of derivative categories. can be seen in the image above, that the derivative category view is on the right side and has the same button design as the parent category. This can confuse the user, as some users may think that the child category is actually a hidden parent category (?). otherwise a right-aligned display of child categories is not sufficient to tell that the derived category is the actual derived category.</p>
 
