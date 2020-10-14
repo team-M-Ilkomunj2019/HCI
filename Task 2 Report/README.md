@@ -13,10 +13,10 @@ https://youtu.be/KSJ_qrPHfDM
 ## Day 3 Report
 https://youtu.be/3xkMAw1z-Gc
 <p>Subtitle Discussion Day-3 : https://github.com/team-M-Ilkomunj2019/HCI/blob/hw2/Task%202%20Report/Subtitle_for_The_Voting_Video_Day3.pdf</p>
-<p> kami mengundang Arief Rahman, Muhammad Adin, dan Hary Susilo sebagai by passer karena masing-masing dari mereka menjadi penanggung jawab dalam kelompoknya masing masing untuk  mendesain ulang atau mengimprove aplikasi pada tugas hci yang ke-2 ini. selain itu mereka juga memahami tentang google material design.</p>
+<p> We invite Arief Rahman, Muhammad Adin, and Hary Susilo as by passers because each of them is the person in charge in their respective groups to redesign or improve the application in this 2nd hci assignment. besides that they also understand about google material design.</p>
 
 ## Day 4 Report
-
+https://youtu.be/WcaaUwqWMKc
 <p>Subtitle Discussion Day-4 : https://github.com/team-M-Ilkomunj2019/HCI/blob/hw2/Task%202%20Report/Subtitle_for_The_Video_Discussion_with_Developer_Day-4.pdf</p>
 
 ### Explanation Of Material Design Utilization In Chosen Design
