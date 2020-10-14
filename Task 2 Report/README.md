@@ -12,4 +12,5 @@ https://youtu.be/KSJ_qrPHfDM
 
 ## Day 3 report
 https://youtu.be/3xkMAw1z-Gc
+<p>Subtitle Discussion Day-3 : https://github.com/team-M-Ilkomunj2019/HCI/blob/hw2/Task%202%20Report/Subtitle_for_The_Voting_Video_Day3.pdf</p>
 <p> kami mengundang Arief Rahman, Muhammad Adin, dan Hary Susilo sebagai by passer karena masing-masing dari mereka menjadi penanggung jawab dalam kelompoknya masing masing untuk  mendesain ulang atau mengimprove aplikasi pada tugas hci yang ke-2 ini. selain itu mereka juga memahami tentang google material design.</p>
