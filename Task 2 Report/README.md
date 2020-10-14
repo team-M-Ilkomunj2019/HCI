@@ -2,6 +2,7 @@
 
 ## Day 1 report
 https://youtu.be/KSJ_qrPHfDM
+<p>Subtitle Discussion Day-1 : https://github.com/team-M-Ilkomunj2019/HCI/blob/hw2/Task%202%20Report/Subtitle_For_The_Discussion_Video_Day1.pdf</p>
 
 ## Day 2 report
 <p>KUIS KESEHATAN DESIGN 1</p>
