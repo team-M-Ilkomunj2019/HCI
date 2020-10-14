@@ -33,3 +33,4 @@ https://youtu.be/WcaaUwqWMKc
 <img src="after2.jpg">
 
 <p>The next improvisation that is made is when the user types a word in the question search menu, then after clicking it will display a notification of the number of questions found in the application, then immediately followed by the appearance of the questions available in the application. it aims to make this interaction more efficient and effective.</p>
+<p>In the question category that has sub-branches the appearance is also changed, namely the sub-branches are changed to a lighter green color than the branch button color and their position is placed in the middle so that the user can distinguish that they are sub-branches.</p>
